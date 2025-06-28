@@ -13,14 +13,14 @@ const services = [
     title: "Relationship Counselling",
     description:
       "Strengthen your connections and improve communication with your partner through compassionate couples therapy. We'll address conflict resolution, intimacy issues, and relationship patterns to help you build a healthier, more fulfilling partnership together.",
-    image: "/placeholder.svg?height=300&width=400&text=Couple+Holding+Hands",
+    image: "/images/relationship.jpg?height=300&width=400&text=Couple+Holding+Hands",
     price: "$240 / couples session",
   },
   {
     title: "Trauma Recovery",
     description:
       "Heal from past traumatic experiences in a safe, supportive environment using trauma-informed therapeutic approaches. We'll work at your pace to process difficult emotions, develop healthy coping mechanisms, and reclaim your sense of safety and empowerment.",
-    image: "/placeholder.svg?height=300&width=400&text=Healing+Journey+Path",
+    image: "/images/trauma.jpg?height=300&width=400&text=Healing+Journey+Path",
     price: "$200 / individual session",
   },
 ]
